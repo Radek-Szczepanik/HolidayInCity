@@ -6,4 +6,7 @@ global using Microsoft.EntityFrameworkCore.Metadata.Builders;
 global using HolidayInCity.DataAccess.Entities;
 global using Microsoft.EntityFrameworkCore.Design;
 global using HolidayInCity.DataAccess.Entities.Configurations;
+global using System.Threading.Tasks;
+global using HolidayInCity.DataAccess.CQRS.Queries;
+
 
